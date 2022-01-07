@@ -1,0 +1,15 @@
+{
+    "friends":[
+        {
+            "name":"likhon roy",
+            "roll":55
+        },
+        {
+            "sex":"funk"
+        }
+    ],
+    "country":{
+        "mycountry":"Bangladesh"
+    }
+
+}
